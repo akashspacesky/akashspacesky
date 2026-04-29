@@ -1,27 +1,39 @@
 ## Akash Verma
 
-Robotics engineer at **NEURA Robotics** (Germany). I make robots behave.
+Advanced Development at **NEURA Robotics** — Stuttgart, Germany.
+IIT Bombay '23 (Engineering Physics).
 
-Currently focused on learning-based manipulation: getting robots to acquire skills from experience rather than hand-crafted controllers.
+Robotics generalist: perception, planning, controls, system integration. I care about getting robots to work reliably on real hardware.
+
+---
+
+### Experience
+
+**NEURA Robotics** — Advanced Development  
+Cognitive humanoid robotics. Working on next-generation robotic systems at the research-to-deployment boundary.
+
+**NewSpace Research and Technologies** — Robotics Software Engineer  
+Autonomous drone systems for defense: UAV swarms, GNSS-denied navigation, autonomous first responder drones (DRDO/CAIR collaboration).
+
+**UMIC, IIT Bombay** — Overall Coordinator, Innovation Cell  
+Led Team AeRoVe: IARC Mission 9 World Champions (2020). ASME Student Design Challenge — 4th globally (2021).
 
 ---
 
 ### Projects
 
-**[so101-world-model](https://github.com/akashspacesky/so101-world-model)**
-World-model-as-policy for SO-101 robots. Given a camera frame and text instruction, generates a plausible future video (CogVideoX-2b), then extracts executable joint actions via an inverse dynamics model (DINOv2 + transformer head). Zero-shot generalization via video generation. Inspired by NVIDIA Cosmos.
+**[so101-world-model](https://github.com/akashspacesky/so101-world-model)**  
+World-model-as-policy for SO-101 robots. Text + camera frame → video generation (CogVideoX-2b) → joint actions via inverse dynamics model (DINOv2). Zero-shot task generalization through video prediction. Inspired by NVIDIA Cosmos.
 
-**[vla-rlt](https://github.com/akashspacesky/vla-rlt)**
-Online RL fine-tuning for vision-language-action models on real hardware. Implements Physical Intelligence's RL Token approach on SmolVLA (450M), runs on SO-101 + M2 MacBook Air. SAC with reference regularization keeps the robot from drifting too far from the pretrained VLA.
-
----
-
-### Background
-
-- IIT Bombay (B.Tech, Engineering Physics)
-- Previously: robotics research, reinforcement learning for manipulation
-- Stack: PyTorch, LeRobot, HuggingFace, MPS/CUDA
+**[vla-rlt](https://github.com/akashspacesky/vla-rlt)**  
+Online RL fine-tuning of vision-language-action models on real hardware. Implements Physical Intelligence's RL Token approach on SmolVLA (450M params), targeting SO-101 + M2 MacBook Air. SAC with reference regularization keeps the robot grounded in the pretrained policy.
 
 ---
 
-akashvermaiitb21@gmail.com
+### Stack
+
+C++, ROS2, Python, PyTorch, NVIDIA Omniverse, LeRobot, HuggingFace
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/akash-verma-64851b194) · akashvermaiitb21@gmail.com
