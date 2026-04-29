@@ -16,7 +16,7 @@ Cognitive humanoid robotics. Working on next-generation robotic systems at the r
 Autonomous drone systems for defense: UAV swarms, GNSS-denied navigation, autonomous first responder drones (DRDO/CAIR collaboration).
 
 **UMIC, IIT Bombay** — Overall Coordinator, Innovation Cell  
-Led Team AeRoVe: IARC Mission 9 World Champions (2020). ASME Student Design Challenge — 4th globally (2021).
+Led Team UMIC: India's First Self Driving Car(https://www.youtube.com/watch?v=8lNKjX0-RKY), ASME Student Design Challenge — 4th globally (2021).
 
 ---
 
