@@ -20,16 +20,6 @@ Led Team AeRoVe: IARC Mission 9 World Champions (2020). ASME Student Design Chal
 
 ---
 
-### Projects
-
-**[so101-world-model](https://github.com/akashspacesky/so101-world-model)**  
-World-model-as-policy for SO-101 robots. Text + camera frame → video generation (CogVideoX-2b) → joint actions via inverse dynamics model (DINOv2). Zero-shot task generalization through video prediction. Inspired by NVIDIA Cosmos.
-
-**[vla-rlt](https://github.com/akashspacesky/vla-rlt)**  
-Online RL fine-tuning of vision-language-action models on real hardware. Implements Physical Intelligence's RL Token approach on SmolVLA (450M params), targeting SO-101 + M2 MacBook Air. SAC with reference regularization keeps the robot grounded in the pretrained policy.
-
----
-
 ### Stack
 
 C++, ROS2, Python, PyTorch, NVIDIA Omniverse, LeRobot, HuggingFace
